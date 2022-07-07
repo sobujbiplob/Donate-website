@@ -1,0 +1,286 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+    padding: 0%;
+    margin-bottom: 100px;
+
+
+
+}
+
+.background-image {
+    background-image: url(/image/ma.png);
+    background-size: cover;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin-bottom: 50PX;
+
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.font-sizeh1 {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+
+}
+
+.text-align {
+    margin: 0%;
+    padding: 0%;
+    font-size: 30px;
+
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-70%);
+}
+
+.align {
+    text-align: center;
+}
+
+.para-align {
+    text-align: center;
+    color: white;
+}
+
+.donate-button {
+    text-align: left;
+}
+
+.button-align {
+    margin: 0%;
+    padding: 0%;
+    font-size: 24px;
+
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-30%);
+
+}
+
+.button-decorate {
+    text-decoration: none;
+    background-color: tomato;
+    width: 150px;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.donate-text {
+    text-align: center;
+    font-size: 35px;
+}
+
+#align-para {
+    text-align: center;
+}
+
+.donate-section {
+    width: 40%;
+    padding-left: 30%;
+    margin-bottom: 30px;
+}
+
+
+.padding-dollar {
+    padding-left: 20px;
+    text-align: center;
+
+}
+
+.dollar-width {
+    width: 150px;
+    text-align: center;
+}
+
+.display-fx {
+    display: flex;
+
+    padding-left: 15%;
+    padding-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+.fontsize-para {
+    font-size: 18px;
+}
+
+.border {
+
+    border-radius: 5px;
+    padding-right: 5px;
+    height: 50px;
+    padding-top: 15px;
+}
+
+.padding-dollar {
+    background-color: aliceblue;
+    width: 60px;
+    height: 50px;
+    padding-top: 20px;
+    padding-right: 10px;
+    border-radius: 10px;
+
+}
+
+#bordercolor {
+    background-color: rgba(254, 222, 222, 0.541);
+    width: 60px;
+    height: 50px;
+    padding-top: 20px;
+    padding-right: 10px;
+    border: 2px solid red;
+    padding-left: 15px;
+    color: red;
+    border-radius: 10px;
+}
+
+#vericale-line {
+    width: 500px;
+    height: 2px;
+
+    color: black;
+
+
+}
+
+#verticle-line {
+    width: 50%;
+
+}
+
+.donate-button-2nd {
+    text-decoration: none;
+
+
+}
+
+.decoratetext {
+    text-align: center;
+}
+
+.alignbutton2 {
+    text-align: center;
+}
+
+
+
+.don-button {
+
+    font-size: 24px;
+    background-image: linear-gradient(black, blue);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.align-center {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.donate-plan {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.para-alignbox {
+    text-align: justify;
+    text-align: center;
+}
+
+.plan-width {
+    width: 40%;
+    padding-left: 30%;
+}
+
+.food-icon {
+    width: 50px;
+    text-align: center;
+}
+
+.dispaly-flax1 {
+    display: flex;
+    padding-left: 20%;
+    padding-right: 15%;
+    padding-top: 2%;
+
+
+
+}
+
+.width1 {
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.food-para {
+    text-align: justify;
+
+}
+
+.align-pa {
+    text-align: center;
+}
+
+.icon {
+    text-align: center;
+}
+
+#bc3 {
+    background-color: azure;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+
+#bc2 {
+    background-color: beige;
+    padding-right: 20px;
+    padding-top: 15px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+
+#bc {
+    background-color: aquamarine;
+    padding-top: 15px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+
+input {
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: groove;
+}
+
+.no-outline:focus {
+    outline: none;
+}
+
+.amount-center {
+    text-align: center;
+    margin-bottom: 20px;
+}
