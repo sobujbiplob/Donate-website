@@ -253,7 +253,7 @@ body {
 
 #bc3 {
     background-color: azure;
-    padding-top: 30px;
+    padding-top: 10px;
     padding-bottom: 30px;
     border-radius: 15px;
     margin-right: 20px;
@@ -261,7 +261,7 @@ body {
 
 #bc2 {
     background-color: beige;
-    padding-right: 20px;
+    padding-right: 25px;
     padding-top: 15px;
     border-radius: 15px;
     margin-right: 20px;
@@ -269,7 +269,7 @@ body {
 
 #bc {
     background-color: aquamarine;
-    padding-top: 15px;
+    padding-top: 10px;
     margin-right: 20px;
     border-radius: 15px;
 }
