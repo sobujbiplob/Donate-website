@@ -9,11 +9,16 @@ body {
 }
 
 .background-image {
-    background-image: url(people.png);
+    background-image: url(image/people.png);
     background-size: cover;
     height: 600px;
     background-repeat: no-repeat;
     margin-bottom: 50PX;
+
+}
+
+.colorh1 {
+    color: blue;
 
 }
 
@@ -26,7 +31,6 @@ body {
 
 .font-sizeh1 {
     font-size: 50px;
-    color: white;
     text-align: center;
 
 }
@@ -44,11 +48,12 @@ body {
 
 .align {
     text-align: center;
+    color: red;
 }
 
 .para-align {
     text-align: center;
-    color: white;
+    color: orange;
 }
 
 .donate-button {
