@@ -289,3 +289,18 @@ input {
     text-align: center;
     margin-bottom: 20px;
 }
+
+.my-update {
+    width: 40%;
+    padding-left: 30%;
+    padding-top: 3%;
+
+}
+
+#getalign {
+    text-align: center;
+}
+
+#getparaalign {
+    text-align: center;
+}
