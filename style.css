@@ -9,7 +9,7 @@ body {
 }
 
 .background-image {
-    background-image: url(/image/ma.png);
+    background-image: url(/image/people.png);
     background-size: cover;
     height: 600px;
     background-repeat: no-repeat;
